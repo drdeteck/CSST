@@ -1,0 +1,45 @@
+a {
+    color: greenyellow;
+}
+
+/* Body */
+body {
+    background-color: darkolivegreen;
+    color: white;
+}
+
+.wrapper1 {
+    min-height: 100px;
+    margin-top: 200px;
+}
+
+.section {
+    text-align: center;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
+.timer {
+    font-size: 200px;
+}
+
+button {
+    background: yellowgreen;
+    user-select: none;
+    appearance: none;
+    border: 3px solid black;
+    padding: 5px 15px;
+    font-size: 20px;
+    color: black;
+
+}
+
+button:hover {
+    box-shadow: 3px 2px white;
+}
